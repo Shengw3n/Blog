@@ -24,7 +24,7 @@ The system will progress to an actual rocket capable of stabilization during asc
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 0; padding: 0;">
     <h5 style="margin: 0; padding: 0; line-height: 1.2;">PID Testing</h5>
     <video width="320" height="240" controls style="margin-top: 10px;">
-        <source src="/src/content/projects/TVR-Drone/IMG_1628.mov" type="video/mp4">
+        <source src="./IMG_1628.mov" type="video/mp4">
     </video>
 </div>
 
@@ -69,7 +69,7 @@ The rocket drone is programmed in C and features:
 
 ## Pictures XD
 Some midnight PID tuning:
-<img src="/src/content/projects/TVR-Drone/IMG_1624.jpeg" alt="award" style="height: 700px">
+<img src="./IMG_1624.jpeg" alt="award" style="height: 700px">
 
 Competition pics:
 ![pose](./DSCF36944.jpeg)
@@ -77,5 +77,5 @@ Competition pics:
 ![pose3](./DSC_0074.jpeg)
 
 Award 😎:
-<img src="/src/content/projects/TVR-Drone/IMG_6924.jpeg" alt="award" style="height: 600px">
+<img src="./IMG_6924.jpeg" alt="award" style="height: 600px">
 
