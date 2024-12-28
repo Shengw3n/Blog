@@ -69,7 +69,7 @@ export const SOCIALS: Socials = [
     NAME: "Email",
     ICON: "email", 
     TEXT: "shengw3n@student.ubc.ca",
-    HREF: "shengw3n@student.ubc.ca",
+    HREF: "mailto:shengw3n@student.ubc.ca",
   },
 ]
 
