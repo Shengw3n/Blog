@@ -5,6 +5,7 @@ import tailwind from "@astrojs/tailwind"
 import solidJs from "@astrojs/solid-js"
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
+import vercel from '@astrojs/vercel';
 
 
 // https://astro.build/config
@@ -16,4 +17,10 @@ export default defineConfig({
     remarkPlugins: [remarkMath],
     rehypePlugins: [rehypeKatex],
   },
+  output: 'server',
+  adapter: vercel({
+    webAnalytics: {
+      enabled: true,
+    },
+  }),
 })
