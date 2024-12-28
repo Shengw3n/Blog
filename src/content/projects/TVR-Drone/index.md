@@ -21,6 +21,13 @@ The system will progress to an actual rocket capable of stabilization during asc
 
 ## **Project Features**
 
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 0; padding: 0;">
+    <h5 style="margin: 0; padding: 0; line-height: 1.2;">PID Testing</h5>
+    <video width="320" height="240" controls style="margin-top: 10px;">
+        <source src="/src/content/projects/TVR-Drone/IMG_1628.mov" type="video/mp4">
+    </video>
+</div>
+
 - **Active Stabilization:** Demonstrates active balance control in a stationary rocket drone, simulating the challenges of maintaining stability in aerospace conditions.  
 - **Accurate State Estimation:** Utilizes the MPU-6050 sensor for gyroscope and accelerometer data processed through a Kalman filter to minimize noise and improve accuracy.  
 - **PID Control:** Implements PID controllers for real-time adjustment of roll and pitch angles, ensuring precise stability control.  
@@ -59,3 +66,16 @@ The rocket drone is programmed in C and features:
 - **Year 2 Goal:** Develop an actual rocket capable of active stabilization during ascent.  
 - **Year 3 Goal:** Expand to a self-landing rocket with stabilization during both ascent and descent.  
 - **Additional Enhancements:** Incorporate machine learning for adaptive control and optimize the Extended Kalman filter for even better state estimations.  
+
+## Pictures XD
+Some midnight PID tuning:
+<img src="/src/content/projects/TVR-Drone/IMG_1624.jpeg" alt="award" style="height: 700px">
+
+Competition pics:
+![pose](./DSCF36944.jpeg)
+![pose2](./IMG_1715.jpeg)
+![pose3](./DSC_0074.jpeg)
+
+Award 😎:
+<img src="/src/content/projects/TVR-Drone/IMG_6924.jpeg" alt="award" style="height: 600px">
+

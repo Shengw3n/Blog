@@ -16,4 +16,5 @@ export default defineConfig({
     remarkPlugins: [remarkMath],
     rehypePlugins: [rehypeKatex],
   },
+  base: '/shengw3n.github.io'
 })
