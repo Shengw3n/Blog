@@ -7,13 +7,23 @@ import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 
 
+import vercel from "@astrojs/vercel";
+
+
 // https://astro.build/config
 export default defineConfig({
   site: "https://shengw3n.github.io/",
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
+
   markdown: {
     syntaxHighlight: "prism",
     remarkPlugins: [remarkMath],
     rehypePlugins: [rehypeKatex],
   },
+
+  adapter: vercel({
+    webAnalytics: {
+      enabled: true,
+    },
+  }),
 })
