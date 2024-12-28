@@ -10,8 +10,6 @@ demoUrl: https://youtu.be/biTuX5kdb8c
 repoUrl: https://github.com/Shengw3n/FPGA-Reduced-Instruction-Set-Computer/tree/main
 ---
 
-# FPGA Reduced Instruction Set Computer (RISC) Project
-
 ## Introduction
 
 The project involves designing, building, and testing a Turing Complete 16-bit RISC machine using System Verilog on an FPGA board. Key softwares used include Quartus and Questa/ModelSim.
