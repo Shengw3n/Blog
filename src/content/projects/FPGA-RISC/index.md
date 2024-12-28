@@ -5,7 +5,6 @@ date: "Jan 1 2023"
 draft: false
 tags:
 - SystemVerilog
-- FPGA
 demoUrl: https://youtu.be/biTuX5kdb8c
 repoUrl: https://github.com/Shengw3n/FPGA-Reduced-Instruction-Set-Computer/tree/main
 ---

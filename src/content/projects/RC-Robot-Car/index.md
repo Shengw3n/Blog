@@ -5,7 +5,7 @@ date: "May 2024"
 draft: false
 tags:
 - Embedded Systems
-- C
+- C/C++
 demoUrl: https://youtu.be/IKOVHH1TC6M
 repoUrl: https://github.com/Shengw3n/Remote-Controlled-Metal-Detector-Robot
 ---

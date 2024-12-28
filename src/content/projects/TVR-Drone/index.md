@@ -5,8 +5,8 @@ date: "Aug 2024"
 draft: false
 tags:
 - Embedded Systems
-- C++
-- PID Control
+- C/C++
+- Controls
 demoUrl: https://github.com/user-attachments/assets/4e1dce70-534a-4832-8511-e38f3f89c90d
 repoUrl: https://github.com/UBC-Rocket/Thrust-Vectoring?tab=readme-ov-file
 ---
