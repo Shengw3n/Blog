@@ -12,7 +12,7 @@ import vercel from "@astrojs/vercel";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://shengw3n.github.io/",
+  site: "https://shengw3n.vercel.app",
   integrations: [mdx(), sitemap(), solidJs(), tailwind({ applyBaseStyles: false })],
 
   markdown: {
